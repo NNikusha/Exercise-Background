@@ -1,0 +1,15 @@
+.div{
+    width:1000px ;
+    height: 1000px;
+}
+.background1{
+background-image: url(https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408.jpg);
+background-size: cover;
+background-position: center;
+}
+.background2{
+    background-image: url(https://img.freepik.com/free-photo/cloud-sky-twilight-times_74190-4017.jpg?w=2000);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
